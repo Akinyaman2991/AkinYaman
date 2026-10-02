@@ -132,7 +132,3 @@ My technical interests can be summarized in five major areas:
 │     └── System Modernization                                │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akinyaman2991&style=flat-square&color=blueviolet" alt="Profile Visitor Count" />
-</div>
