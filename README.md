@@ -64,7 +64,30 @@ Geliştirdiğim kurumsal ve açık kaynaklı siber güvenlik & yapay zeka projel
 *   🛡️ **[Sentinel-core](https://github.com/Akinyaman2991/Sentinel-core)**: Çekirdek güvenlik operasyonlarını merkezileştiren yapı.
 *   🤖 **[HeartAI](https://github.com/Akinyaman2991/HeartAI)**: Yapay zeka tabanlı karar destek ve akıllı analiz modülü.
 
----
+### 🏆 Sertifikalar, Eğitimler ve Yetkinlikler
+
+<div align="center">
+
+| Eğitim / Sertifika | Alan / Kapsam |
+| :--- | :--- |
+| `🌐 CCNA (Cisco Certified Network Associate)` | Ağ Altyapısı & Mimari |
+| `🛡 CompTIA A+ & IT Essentials` | Donanım, İşletim Sistemi & Teknik Temeller |
+| `🔍 Google Cybersecurity & IT Support` | Güvenlik Operasyonları & BT Destek |
+| `🚨 Siber Olay Tespit ve Müdahale` | Incident Response & Analiz |
+| `🏛️ BTRisk & ISO 27001 BGYS` | Risk Yönetimi & Bilgi Güvenliği Yönetim Sistemi |
+| `⚖️ KVKK & GDPR Eğitim Seti` | Veri Koruma & Yasal Uyumluluk |
+| `☁️ Microsoft SC-900` | Güvenlik, Uyumluluk ve Kimlik Temelleri |
+| `📈 Professional Scrum Master I (PSM I)` | Agile / Scrum Yönetimi |
+| `🤖 Master of Claude & Data Analytics` | Yapay Zeka Entegrasyonu & Veri Analitiği |
+| `⚙️ Savunma Sistemleri & Entegre Lojistik` | Savunma Teknolojileri & Lojistik Yönetimi |
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Expert-111111?style=for-the-badge&logo=hackthebox&logoColor=green" />
+  <img src="https://img.shields.io/badge/ISO_27001-Auditor-005599?style=for-the-badge&logo=BSI&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevSecOps-Practitioner-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
 ### 📈 GitHub İstatistikleri ve Aktivite
 
