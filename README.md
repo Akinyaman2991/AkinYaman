@@ -80,7 +80,9 @@ Geliştirdiğim kurumsal ve açık kaynaklı siber güvenlik & yapay zeka projel
   </p>
 </div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akinyaman2991&style=flat-square&color=blueviolet" alt="Profile Visitor Count" />
+</div>
 
 <div align="center">
   <sub style="color: #888;">© 2026 Akın Yaman • YMN Solutions. All rights reserved.</sub>
