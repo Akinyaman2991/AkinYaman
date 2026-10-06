@@ -1,5 +1,5 @@
 <div align="center">
-  
+
   <!-- Dinamik Header Banner veya İkon -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=180&section=header&text=Akın%20Yaman&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineer%20|%20Cybersecurity%20Expert%20|%20Founder%20of%20YMN%20Solutions&descSize=16&descAlignY=60" width="100%" />
 
@@ -29,7 +29,26 @@
 
 ---
 
-### 👨‍💻 Hakkımda / About Me
+### <code>akin@ymn-solutions ~ $ ./contributions.sh</code>
+<div align="center">
+  <img src="./contrib-heatmap.svg" width="860" />
+</div>
+
+<br><br>
+
+### <code>akin@ymn-solutions ~ $ whoami</code>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top"><img src="./akin-ascii.svg" width="370" /></td>
+      <td valign="top"><img src="./info-card.svg" width="490" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 👨‍‍💻 Hakkımda / About Me
 - 🎓 **Eğitim:** Bilgisayar Mühendisliği mezunuyum (İngilizce).
 - 🏢 **Girişim:** **YMN Solutions** kurucusu olarak siber güvenlik, risk yönetimi ve yapay zeka tabanlı yazılım çözümleri geliştiriyorum.
 - 🎯 **Odak Alanlarım:** Davranışsal Tehdit Analitiği (UEBA), DevSecOps, Kurumsal Risk Analizi (ISO 27001) ve Bulut Güvenliği Mimarileri.
@@ -37,7 +56,7 @@
 
 ---
 
-### 🛠️️ Teknoloji & Uzmanlık Alanları (Tech Stack)
+### 🛠 Teknoloji & Uzmanlık Alanları (Tech Stack)
 
 <div align="center">
 
@@ -55,14 +74,14 @@
 ### 🚀 Öne Çıkan Projeler (Featured Repositories)
 Geliştirdiğim kurumsal ve açık kaynaklı siber güvenlik & yapay zeka projeleri:
 
-*   🧠 **[Real-Time-UEBA-Behavioral-Threat-Analytics-Engine](https://github.com/Akinyaman2991/Real-Time-UEBA-Behavioral-Threat-Analytics-Engine)**: Kullanıcı ve varlık davranış analizi (UEBA) yaparak anomalileri ve sıfır gün tehditlerini gerçek zamanlı yakalayan motor.
-*   🏦 **[iso27001-banking-risk-analysis](https://github.com/Akinyaman2991/iso27001-banking-risk-analysis)**: Finans ve bankacılık sektörü için ISO 27001 standartlarına tam uyumlu risk değerlendirme ve otomasyon aracı.
-*   ☁️ **[CloudCognition](https://github.com/Akinyaman2991/CloudCognition)**: Bulut mimarilerindeki güvenlik açıklarını denetleyen ve akıllı analiz sunan altyapı çözümü.
-*   🔒 **[Devsecops-secret-scanner](https://github.com/Akinyaman2991/Devsecops-secret-scanner)**: CI/CD pipeline süreçlerinde hassas verilerin, API anahtarlarının ve şifrelerin sızdırılmasını önleyen güvenlik tarayıcısı.
-*   📊 **[Web-log-threat-detector](https://github.com/Akinyaman2991/Web-log-threat-detector)**: Web sunucu loglarını derinlemesine inceleyerek sızma girişimlerini ve zararlı trafik kalıplarını tespit eden sistem.
-*   🔍 **[Network-vulnerability-scanner](https://github.com/Akinyaman2991/Network-vulnerability-scanner)**: Kurumsal ağlardaki zafiyetleri haritalandıran tarama motoru.
-*   🛡️ **[Sentinel-core](https://github.com/Akinyaman2991/Sentinel-core)**: Çekirdek güvenlik operasyonlarını merkezileştiren yapı.
-*   🤖 **[HeartAI](https://github.com/Akinyaman2991/HeartAI)**: Yapay zeka tabanlı karar destek ve akıllı analiz modülü.
+* 🧠 **[Real-Time-UEBA-Behavioral-Threat-Analytics-Engine](https://github.com/Akinyaman2991/Real-Time-UEBA-Behavioral-Threat-Analytics-Engine)**: Kullanıcı ve varlık davranış analizi (UEBA) yaparak anomalileri ve sıfır gün tehditlerini gerçek zamanlı yakalayan motor.
+* 🏦 **[iso27001-banking-risk-analysis](https://github.com/Akinyaman2991/iso27001-banking-risk-analysis)**: Finans ve bankacılık sektörü için ISO 27001 standartlarına tam uyumlu risk değerlendirme ve otomasyon aracı.
+* ☁️ **[CloudCognition](https://github.com/Akinyaman2991/CloudCognition)**: Bulut mimarilerindeki güvenlik açıklarını denetleyen ve akıllı analiz sunan altyapı çözümü.
+* 🔒 **[Devsecops-secret-scanner](https://github.com/Akinyaman2991/Devsecops-secret-scanner)**: CI/CD pipeline süreçlerinde hassas verilerin, API anahtarlarının ve şifrelerin sızdırılmasını önleyen güvenlik tarayıcısı.
+* 📊 **[Web-log-threat-detector](https://github.com/Akinyaman2991/Web-log-threat-detector)**: Web sunucu loglarını derinlemesine inceleyerek sızma girişimlerini ve zararlı trafik kalıplarını tespit eden sistem.
+* 🔍 **[Network-vulnerability-scanner](https://github.com/Akinyaman2991/Network-vulnerability-scanner)**: Kurumsal ağlardaki zafiyetleri haritalandıran tarama motoru.
+* 🛡️ **[Sentinel-core](https://github.com/Akinyaman2991/Sentinel-core)**: Çekirdek güvenlik operasyonlarını merkezileştiren yapı.
+* 🤖 **[HeartAI](https://github.com/Akinyaman2991/HeartAI)**: Yapay zeka tabanlı karar destek ve akıllı analiz modülü.
 
 ### 🏆 Sertifikalar, Eğitimler ve Yetkinlikler
 
@@ -89,71 +108,6 @@ Geliştirdiğim kurumsal ve açık kaynaklı siber güvenlik & yapay zeka projel
   <img src="https://img.shields.io/badge/DevSecOps-Practitioner-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-### 📈 GitHub İstatistikleri ve Aktivite
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Akinyaman2991&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akinyaman2991&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></td>
-    </tr>
-  </table>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akinyaman2991&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akinyaman2991&style=flat-square&color=blueviolet" alt="Profile Visitor Count" />
-</div>
-
 <div align="center">
   <sub style="color: #888;">© 2026 Akın Yaman • YMN Solutions. All rights reserved.</sub>
 </div>
-
-# 🧠 What I Do
-
-My technical interests can be summarized in five major areas:
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                     AKIN YAMAN                              │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  🛡️ CYBERSECURITY                                          │
-│     ├── Network Security                                    │
-│     ├── Web Application Security                            │
-│     ├── Vulnerability Assessment                            │
-│     ├── Security Monitoring                                 │
-│     ├── Incident Response                                   │
-│     └── Security Automation                                 │
-│                                                             │
-│  💻 SOFTWARE ENGINEERING                                   │
-│     ├── Backend Development                                 │
-│     ├── API Development                                     │
-│     ├── Automation                                          │
-│     ├── Database Systems                                    │
-│     └── Software Architecture                               │
-│                                                             │
-│  🌐 SYSTEMS & NETWORKING                                   │
-│     ├── Linux                                                │
-│     ├── Windows Server                                       │
-│     ├── TCP/IP                                               │
-│     ├── Network Analysis                                    │
-│     └── Infrastructure                                      │
-│                                                             │
-│  ☁️ CLOUD & DEVOPS                                          │
-│     ├── Cloud Architecture                                   │
-│     ├── Docker                                               │
-│     ├── CI/CD                                                │
-│     ├── Infrastructure Modernization                        │
-│     └── Cloud Security                                      │
-│                                                             │
-│  🏢 TECHNOLOGY & BUSINESS                                  │
-│     ├── IT Consulting                                        │
-│     ├── Digital Transformation                              │
-│     ├── Project Management                                  │
-│     ├── Technology Strategy                                 │
-│     └── System Modernization                                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
