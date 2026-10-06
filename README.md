@@ -27,20 +27,6 @@
   </p>
 </div>
 
----
-
-<!-- Terminal Avatar ve Neofetch Bilgi Kartı Yan Yana -->
-<p align="center">
-  <img src="akin-ascii.svg" width="48%" />
-  <img src="info-card.svg" width="48%" />
-</p>
-
-<p align="center">
-  <img src="contrib-heatmap.svg" width="98%" />
-</p>
-
----
-
 ### 👨‍💻 Hakkımda / About Me
 - 🎓 **Eğitim:** Bilgisayar Mühendisliği mezunuyum (İngilizce).
 - 🏢 **Girişim:** **YMN Solutions** kurucusu olarak siber güvenlik, risk yönetimi ve yapay zeka tabanlı yazılım çözümleri geliştiriyorum.
