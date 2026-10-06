@@ -1,0 +1,21 @@
+def render_heatmap():
+    svg_content = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="100%" height="100%">
+  <style>
+    .bg { fill: #0d1117; }
+    .text { fill: #8b949e; font-family: monospace; font-size: 12px; }
+    .cell { rx: 3; ry: 3; }
+  </style>
+  <rect width="800" height="150" rx="10" class="bg"/>
+  <text x="30" y="40" class="text">Live Activity Heatmap</text>
+  <!-- Örnek ısı haritası kareleri -->
+  <rect x="30" y="60" width="12" height="12" fill="#216e39" class="cell"/>
+  <rect x="48" y="60" width="12" height="12" fill="#30a14e" class="cell"/>
+  <rect x="66" y="60" width="12" height="12" fill="#216e39" class="cell"/>
+  <rect x="84" y="60" width="12" height="12" fill="#40c463" class="cell"/>
+</svg>"""
+    with open("contrib-heatmap.svg", "w", encoding="utf-8") as f:
+        f.write(svg_content)
+    print("contrib-heatmap.svg oluşturuldu.")
+
+if __name__ == "__main__":
+    render_heatmap()
